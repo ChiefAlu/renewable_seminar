@@ -1,0 +1,11 @@
+numpy
+pandas
+ipykernel
+transformers
+datasets
+evaluate
+accelerate
+gluonts
+ujson
+matplotlib
+scikit-learn
